@@ -14,6 +14,7 @@ namespace Homework_1
                 anwser = anwser * i;
             }
             Console.WriteLine($"Factorial of {x} is {anwser}");
+            Console.ReadKey();
         }
     }
 }
