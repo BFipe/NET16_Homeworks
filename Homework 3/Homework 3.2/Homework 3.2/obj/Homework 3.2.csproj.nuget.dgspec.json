@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\TeachMeSkills\\test\\Homework 3.2\\Homework 3.2\\Homework 3.2.csproj": {}
+    "D:\\Desktop\\TeachMeSkills\\NET16_Homeworks\\Homework 3\\Homework 3.2\\Homework 3.2\\Homework 3.2.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\TeachMeSkills\\test\\Homework 3.2\\Homework 3.2\\Homework 3.2.csproj": {
+    "D:\\Desktop\\TeachMeSkills\\NET16_Homeworks\\Homework 3\\Homework 3.2\\Homework 3.2\\Homework 3.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\TeachMeSkills\\test\\Homework 3.2\\Homework 3.2\\Homework 3.2.csproj",
+        "projectUniqueName": "D:\\Desktop\\TeachMeSkills\\NET16_Homeworks\\Homework 3\\Homework 3.2\\Homework 3.2\\Homework 3.2.csproj",
         "projectName": "Homework 3.2",
-        "projectPath": "D:\\Desktop\\TeachMeSkills\\test\\Homework 3.2\\Homework 3.2\\Homework 3.2.csproj",
+        "projectPath": "D:\\Desktop\\TeachMeSkills\\NET16_Homeworks\\Homework 3\\Homework 3.2\\Homework 3.2\\Homework 3.2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\TeachMeSkills\\test\\Homework 3.2\\Homework 3.2\\obj\\",
+        "outputPath": "D:\\Desktop\\TeachMeSkills\\NET16_Homeworks\\Homework 3\\Homework 3.2\\Homework 3.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }
