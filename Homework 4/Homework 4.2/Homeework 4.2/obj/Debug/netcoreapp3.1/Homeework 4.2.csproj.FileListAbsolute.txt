@@ -1,0 +1,14 @@
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\bin\Debug\netcoreapp3.1\Homeework 4.2.exe
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\bin\Debug\netcoreapp3.1\Homeework 4.2.deps.json
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\bin\Debug\netcoreapp3.1\Homeework 4.2.runtimeconfig.json
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\bin\Debug\netcoreapp3.1\Homeework 4.2.runtimeconfig.dev.json
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\bin\Debug\netcoreapp3.1\Homeework 4.2.dll
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\bin\Debug\netcoreapp3.1\Homeework 4.2.pdb
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\obj\Debug\netcoreapp3.1\Homeework 4.2.csproj.AssemblyReference.cache
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\obj\Debug\netcoreapp3.1\Homeework 4.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\obj\Debug\netcoreapp3.1\Homeework 4.2.AssemblyInfoInputs.cache
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\obj\Debug\netcoreapp3.1\Homeework 4.2.AssemblyInfo.cs
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\obj\Debug\netcoreapp3.1\Homeework 4.2.csproj.CoreCompileInputs.cache
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\obj\Debug\netcoreapp3.1\Homeework 4.2.dll
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\obj\Debug\netcoreapp3.1\Homeework 4.2.pdb
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homeework 4.2\Homeework 4.2\obj\Debug\netcoreapp3.1\Homeework 4.2.genruntimeconfig.cache

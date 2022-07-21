@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeework 4.2", "Homeework 4.2\Homeework 4.2.csproj", "{ACDB5B20-79B6-4DB7-A468-98E09D98222F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDB5B20-79B6-4DB7-A468-98E09D98222F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDB5B20-79B6-4DB7-A468-98E09D98222F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDB5B20-79B6-4DB7-A468-98E09D98222F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDB5B20-79B6-4DB7-A468-98E09D98222F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A70F229-7C8D-4B88-840F-0BC38355380E}
+	EndGlobalSection
+EndGlobal
