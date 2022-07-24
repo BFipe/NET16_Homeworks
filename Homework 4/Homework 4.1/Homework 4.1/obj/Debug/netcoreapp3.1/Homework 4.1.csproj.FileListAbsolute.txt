@@ -12,3 +12,17 @@ D:\Desktop\TeachMeSkills\test\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\
 D:\Desktop\TeachMeSkills\test\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.dll
 D:\Desktop\TeachMeSkills\test\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.pdb
 D:\Desktop\TeachMeSkills\test\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.genruntimeconfig.cache
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\bin\Debug\netcoreapp3.1\Homework 4.1.exe
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\bin\Debug\netcoreapp3.1\Homework 4.1.deps.json
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\bin\Debug\netcoreapp3.1\Homework 4.1.runtimeconfig.json
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\bin\Debug\netcoreapp3.1\Homework 4.1.runtimeconfig.dev.json
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\bin\Debug\netcoreapp3.1\Homework 4.1.dll
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\bin\Debug\netcoreapp3.1\Homework 4.1.pdb
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.csproj.AssemblyReference.cache
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.AssemblyInfoInputs.cache
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.AssemblyInfo.cs
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.csproj.CoreCompileInputs.cache
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.dll
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.pdb
+D:\Desktop\TeachMeSkills\NET16_Homeworks\Homework 4\Homework 4.1\Homework 4.1\obj\Debug\netcoreapp3.1\Homework 4.1.genruntimeconfig.cache

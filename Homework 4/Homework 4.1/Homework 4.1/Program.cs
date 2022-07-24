@@ -13,7 +13,8 @@ namespace Homework_4._1
             Console.WriteLine("Введите размерность массива");
             int mass_l = int.Parse(Console.ReadLine());
             int[] mass = new int[mass_l];
-            for (int i = 0; i < mass_l; i++)
+
+            for (int i = 0; i < mass.Length; i++)
             {
                 Console.WriteLine($"Введите {i + 1} эллемент");
                 mass[i] = int.Parse(Console.ReadLine());
