@@ -58,7 +58,17 @@ namespace Homework_5
                 string pupil_name;
                 float averange = 0;
 
-                
+                Console.WriteLine(@"
+1 - add pupil
+2 - change mark
+3 - remove pupil
+4 - show all
+5 - averange value of marks
+6 - highest mark in the class
+7 - list of pupils with mark greater/equal 8
+8 - list of pupils with mark smaller/equal 4
+9 - execute program
+");
                 Console.WriteLine("Enter operation");
                 do
                 {
@@ -74,6 +84,8 @@ namespace Homework_5
                     case menu_operations.add_mark:
                         Console.WriteLine("Enter pupil name");
                         pupil_name = Console.ReadLine();
+                        pupil_name = pupil_name.TrimStart();
+                        pupil_name = pupil_name.TrimEnd();
 
                         if (!class_marks.ContainsKey(pupil_name))
                         {
@@ -107,6 +119,8 @@ namespace Homework_5
                     case menu_operations.change_mark:
                         Console.WriteLine("Enter pupil name");
                         pupil_name = Console.ReadLine();
+                        pupil_name = pupil_name.TrimStart();
+                        pupil_name = pupil_name.TrimEnd();
 
                         if (class_marks.ContainsKey(pupil_name))
                         {
@@ -142,6 +156,8 @@ namespace Homework_5
                     case menu_operations.remove_mark:
                         Console.WriteLine("Enter pupil name");
                         pupil_name = Console.ReadLine();
+                        pupil_name = pupil_name.TrimStart();
+                        pupil_name = pupil_name.TrimEnd();
 
                         if (class_marks.ContainsKey(pupil_name))
                         {
@@ -180,7 +196,7 @@ namespace Homework_5
 
                     #region surname_list_highest_mark
                     case menu_operations.surnames_list_highest_mark:
-                        
+
                         foreach (var mark in class_marks)
                         {
                             if (custom_value_mark <= mark.Value)
@@ -189,12 +205,20 @@ namespace Homework_5
                             }
                         }
                         Console.WriteLine($"Highest mark in class - {custom_value_mark}");
+                        Console.WriteLine($"List of the pupils with that mark:");
+                        foreach (var mark in class_marks)
+                        {
+                            if (custom_value_mark == mark.Value)
+                            {
+                                Console.WriteLine($"{mark.Key}");
+                            }
+                        }
                         break;
                     #endregion
 
-                    #region surnames_list_>8
+                    #region surnames_list_>=8
                     case menu_operations.surnames_list_morethan8:
-                        Console.WriteLine("List of the pupils with marks >8 :");
+                        Console.WriteLine("List of the pupils with marks >= 8 :");
                         foreach (var mark in class_marks)
                         {
                             if (mark.Value >= 8)
@@ -205,9 +229,9 @@ namespace Homework_5
                         break;
                     #endregion
 
-                    #region surnames_list_<4
+                    #region surnames_list_<=4
                     case menu_operations.surnames_list_lessthan4:
-                        Console.WriteLine("List of the pupils with marks <4 :");
+                        Console.WriteLine("List of the pupils with marks <= 4 :");
                         foreach (var mark in class_marks)
                         {
                             if (mark.Value <= 4)
