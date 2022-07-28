@@ -132,8 +132,7 @@ namespace Homework_5
 
                             if (add_mark <= 10 && add_mark >= 1)
                             {
-                                class_marks.Remove(pupil_name);
-                                class_marks.Add(pupil_name, add_mark);
+                                class_marks[pupil_name] = add_mark;
                                 Console.WriteLine("Sucess!");
                             }
 
