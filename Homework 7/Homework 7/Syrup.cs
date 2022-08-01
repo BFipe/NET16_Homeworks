@@ -8,6 +8,7 @@ namespace Homework_7
     {
         public Syrup(string name, int cost, string packageType) : base(name, cost)
         {
+            PackageType = packageType;
         }
 
         public  string PackageType { get; set; }
