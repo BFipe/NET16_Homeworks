@@ -12,7 +12,7 @@ namespace Homework_7
             Name = name;
             Cost = cost;
         }
-
+        
         public string Name { get; set; }
 
         public int Cost

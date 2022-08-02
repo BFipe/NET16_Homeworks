@@ -19,7 +19,11 @@ namespace Additional_task
             {
                 if (value <= 0)
                 {
-                    _fraction = 1;
+                    while (value < 0)
+                    {
+                        value = int.Parse(Console.ReadLine());
+                    }
+                    _fraction = value;
                 }
                 else
                 {
@@ -58,32 +62,39 @@ namespace Additional_task
             return FractionalNumberSimplified;
         }
 
-        public FractionalNumber Add(FractionalNumber FractionalNumber2, out FractionalNumber Anwser)
+        public FractionalNumber Add(FractionalNumber FractionalNumber, out FractionalNumber Anwser)
         {
-            Anwser = new FractionalNumber(Integer * FractionalNumber2.Fraction + FractionalNumber2.Integer * Fraction, Fraction * FractionalNumber2.Fraction);
+            Anwser = new FractionalNumber(Integer * FractionalNumber.Fraction + FractionalNumber.Integer * Fraction, Fraction * FractionalNumber.Fraction);
             Anwser.Simplify(out Anwser);
             return Anwser; //Все равно не понял как работает это, если сюда спокойно можно подставить null
         }
 
-        public FractionalNumber Substract(FractionalNumber FractionalNumber2, out FractionalNumber Anwser)
+        public FractionalNumber Substract(FractionalNumber FractionalNumber, out FractionalNumber Anwser)
         {
-            Anwser = new FractionalNumber(Integer * FractionalNumber2.Fraction - FractionalNumber2.Integer * Fraction, Fraction * FractionalNumber2.Fraction);
+            Anwser = new FractionalNumber(Integer * FractionalNumber.Fraction - FractionalNumber.Integer * Fraction, Fraction * FractionalNumber.Fraction);
             Anwser.Simplify(out Anwser);
             return Anwser;
         }
 
-        public FractionalNumber Multiply(FractionalNumber FractionalNumber2, out FractionalNumber Anwser)
+        public FractionalNumber Multiply(FractionalNumber FractionalNumber, out FractionalNumber Anwser)
         {
-            Anwser = new FractionalNumber(Integer * FractionalNumber2.Integer, Fraction * FractionalNumber2.Fraction);
+            Anwser = new FractionalNumber(Integer * FractionalNumber.Integer, Fraction * FractionalNumber.Fraction);
             Anwser.Simplify(out Anwser);
             return Anwser;
         }
 
-        public FractionalNumber Divide(FractionalNumber FractionalNumber2, out FractionalNumber Anwser)
+        public FractionalNumber Divide(FractionalNumber FractionalNumber, out FractionalNumber Anwser)
         {
-            Anwser = new FractionalNumber(Integer * FractionalNumber2.Fraction, Fraction * FractionalNumber2.Integer);
+            Anwser = new FractionalNumber(Integer * FractionalNumber.Fraction, Fraction * FractionalNumber.Integer);
             Anwser.Simplify(out Anwser);
             return Anwser;
+        }
+
+        public void Double()
+        {
+            
+            double Anwser = (double)Integer / (double)Fraction;
+            Console.WriteLine($"Double variant for a fraction - {Anwser}");
         }
     }
 }
